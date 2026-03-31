@@ -9,6 +9,7 @@ The following software and libraries are required to run this project.
 
     pip install -r requirements.txt
 
+The data collected can be found at https://www.kaggle.com/datasets/niklaslange/html-url-metadata-for-phishing-sites and needs to be put in the data_new/old respectively folder and the df_merged into the data_merged folder.
 Projects structure
 -----------------
 
