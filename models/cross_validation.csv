@@ -1,0 +1,4 @@
+model,cv_f1_mean,cv_f1_std
+Random Forest,0.9673,0.0011
+Logistic Regression,0.8961,0.0037
+KNN,0.9028,0.0014

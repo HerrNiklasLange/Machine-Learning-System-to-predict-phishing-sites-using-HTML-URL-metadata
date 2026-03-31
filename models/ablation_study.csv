@@ -1,0 +1,8 @@
+experiment,num_features,accuracy,f1
+URL Only,16,0.9106,0.909
+HTML Only,14,0.9461,0.9452
+Metadata Only,7,0.7311,0.7248
+URL + HTML,30,0.9578,0.9573
+URL + Metadata,23,0.9376,0.9367
+HTML + Metadata,21,0.9455,0.9448
+All Features,38,0.9684,0.9683

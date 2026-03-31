@@ -1,0 +1,4 @@
+model,historical_acc,modern_acc,absolute_drop,pct_drop
+Random Forest,0.9684,0.6768,0.2917,30.12
+Logistic Regression,0.9158,0.6696,0.2462,26.89
+KNN,0.9389,0.6526,0.2863,30.49
